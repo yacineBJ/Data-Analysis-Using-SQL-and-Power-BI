@@ -22,7 +22,10 @@ Welcome to my data analysis project focused on the Brazilian ecommerce public da
      - **Geolocation Data**: Utilize the geolocation dataset to provide geographical insights and map the distribution of orders across Brazil.
 
 #### Context:
-This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to sales channels effortlessly through a single contract. Merchants can sell their products via the Olist Store and utilize Olist's logistics partners for shipping. After a customer purchases a product, the seller is notified to fulfill the order. Upon receiving the product or when the estimated delivery date is due, customers are invited to complete a satisfaction survey via email, where they can rate their purchase experience and provide feedback.
+This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to sales channels effortlessly through a single 
+contract. Merchants can sell their products via the Olist Store and utilize Olist's logistics partners for shipping. After a customer purchases a product, the seller is notified to fulfill the order. Upon receiving the product or when the estimated delivery date is due, customers are invited to complete a satisfaction survey via email, where they can rate their purchase experience and provide feedback.
 
 #### Project Outcome:
 By the end of this project, we aim to deliver a set of Power BI dashboards that provide actionable insights into the ecommerce operations of Olist Store. These dashboards will enable stakeholders to make informed decisions, improve operational efficiency, and enhance customer satisfaction.
+### Due to the size of the files, I cannot upload them to GitHub. Please find the files on Google Drive using the link below:
+https://drive.google.com/drive/folders/1XFHDCOyHt6hV29Kyo3cT9_oeLEr-eCKj?usp=drive_link
